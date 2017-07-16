@@ -1,9 +1,9 @@
 # RecyclerViewHeaderFooter
 RecyclerView添加头、尾布局，设置分割线
 
-内含三种分割线样式：
-1、UniversalRecycleViewDivider更改分割线颜色无效，有bug。
-2、DividerGridItemDecoration用于GridLayoutManager和StaggeredGridLayoutManager布局中的分割线，可更改分割线颜色。
+内含三种分割线样式：<br/>
+1、UniversalRecycleViewDivider更改分割线颜色无效，有bug。<br/>
+2、DividerGridItemDecoration用于GridLayoutManager和StaggeredGridLayoutManager布局中的分割线，可更改分割线颜色。<br/>
 3、SimpleLinearItemDecortion简单的自定义分割线，未定义方法更改分割线颜色。
 
 ```java

@@ -28,7 +28,7 @@ private boolean isLastRaw(RecyclerView parent, int pos,int childCount) {
                 return true;
         }
         return false;
-    }
+}
 ```
 
 ![img](https://github.com/ykmeory/Android_RecyclerViewHeaderFooter/blob/master/S70717-005845_meitu_1.jpg "截图")

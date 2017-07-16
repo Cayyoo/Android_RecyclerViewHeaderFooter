@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#e1f6f7"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp">
+    <TextView
+        android:id="@+id/tv_one"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:textColor="#8d8d8d"
+        android:text="第一列"/>
+
+    <TextView
+        android:id="@+id/tv_two"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:textColor="#8d8d8d"
+        android:text="第二列"/>
+
+    <TextView
+        android:id="@+id/tv_three"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:textColor="#8d8d8d"
+        android:text="第三列"/>
+
+    <TextView
+        android:id="@+id/tv_four"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:textColor="#8d8d8d"
+        android:text="第四列"/>
+</LinearLayout>
